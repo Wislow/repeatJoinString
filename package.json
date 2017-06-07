@@ -10,13 +10,13 @@
     "type": "git",
     "url": "git+https://github.com/Wislow/repeatJoinString.git"
   },
-  "keywords": {
+  "keywords": [
     "string",
     "join",
     "multi",
     "repeat",
     "separator"
-  },
+  ],
   "author": "june.hwang",
   "license": "MIT",
   "bugs": {
