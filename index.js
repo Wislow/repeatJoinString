@@ -7,4 +7,4 @@ function repeatJoinString(string, separator, times) {
   return str;
 }
 
-module.exports = rjs;
+module.exports = repeatJoinString;
